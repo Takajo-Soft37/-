@@ -1,6 +1,6 @@
 # MAP    
 
-# <span style="color:red;">ERROR!  ERROR!  ERROR!  ERROR!  ERROR1!</span>  
+# <span style="color:red;">ERROR!  ERROR!  ERROR!  ERROR!  ERROR!</span>  
 
 
 
