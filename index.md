@@ -1,21 +1,10 @@
 # MAP    
 
-![bg](back.jpg)
   
-# <span style="color:red;">ERROR!  ERROR!  ERROR!  ERROR!  ERROR!</span>  
+# <span style="color:red;">ERROR!  ERROR!  ERROR!  ERROR!  ERROR!  ERROR!</span>  
 
 
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 
 [`MAP`](https://takajo-soft37.github.io/wakuwakuland/map.yml)
