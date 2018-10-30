@@ -8,5 +8,3 @@
 
 
 
-
-[`MAP`](https://takajo-soft37.github.io/wakuwakuland/map.yml)
