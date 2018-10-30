@@ -1,5 +1,5 @@
 # MAP    
-
+  
 # <span style="color:red;">ERROR!  ERROR!  ERROR!  ERROR!  ERROR!</span>  
 
 
@@ -16,6 +16,4 @@
 [Link](url) and ![Image](src)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-`[MAP](https://takajo-soft37.github.io/wakuwakuland/map.yml)`
+[`MAP`](https://takajo-soft37.github.io/wakuwakuland/map.yml)
